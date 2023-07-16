@@ -1,0 +1,573 @@
+RESPONSE,STATE,TOTAL
+Call them out,Texas,692
+Call them out,California,583
+Call them out,New York,577
+Call them out,Illinois,509
+Call them out,Pennsylvania,461
+Call them out,Michigan,417
+Call them out,Ohio,405
+Call them out,Washington,290
+Call them out,North Carolina,288
+Call them out,Florida,268
+Call them out,Georgia,258
+Call them out,Tennessee,239
+Call them out,Indiana,228
+Call them out,Wisconsin,226
+Call them out,Colorado,225
+Call them out,Minnesota,207
+Call them out,Missouri,203
+Call them out,Massachusetts,201
+Call them out,Virginia,190
+Call them out,Oregon,176
+Call them out,New Jersey,173
+Call them out,Iowa,162
+Call them out,Kentucky,133
+Call them out,Arizona,125
+Call them out,Nebraska,125
+Call them out,Utah,115
+Call them out,District of Columbia,107
+Call them out,Kansas,106
+Call them out,Louisiana,103
+Call them out,Oklahoma,103
+Call them out,Alabama,95
+Call them out,Arkansas,91
+Call them out,Connecticut,89
+Call them out,Maryland,88
+Call them out,New Mexico,81
+Call them out,West Virginia,80
+Call them out,Mississippi,76
+Call them out,Maine,69
+Call them out,New Hampshire,69
+Call them out,Idaho,67
+Call them out,South Carolina,66
+Call them out,Montana,65
+Call them out,Nevada,59
+Call them out,Alaska,54
+Call them out,Vermont,47
+Call them out,South Dakota,42
+Call them out,(not set),32
+Call them out,Rhode Island,32
+Call them out,Wyoming,29
+Call them out,North Dakota,24
+Call them out,Delaware,11
+Call them out,Hawaii,10
+Ignore it,Texas,1137
+Ignore it,New York,1065
+Ignore it,Illinois,1030
+Ignore it,California,1008
+Ignore it,Pennsylvania,946
+Ignore it,Michigan,915
+Ignore it,Ohio,847
+Ignore it,Wisconsin,618
+Ignore it,Washington,561
+Ignore it,Minnesota,515
+Ignore it,Indiana,504
+Ignore it,North Carolina,484
+Ignore it,Colorado,479
+Ignore it,Georgia,459
+Ignore it,Tennessee,440
+Ignore it,Missouri,438
+Ignore it,Florida,436
+Ignore it,Oregon,394
+Ignore it,Iowa,381
+Ignore it,Massachusetts,354
+Ignore it,Virginia,333
+Ignore it,Kentucky,270
+Ignore it,Kansas,264
+Ignore it,Utah,247
+Ignore it,Arizona,244
+Ignore it,New Jersey,244
+Ignore it,Nebraska,242
+Ignore it,West Virginia,226
+Ignore it,Oklahoma,225
+Ignore it,Alabama,207
+Ignore it,Maine,193
+Ignore it,District of Columbia,178
+Ignore it,Louisiana,174
+Ignore it,Arkansas,167
+Ignore it,Connecticut,163
+Ignore it,Mississippi,160
+Ignore it,Montana,138
+Ignore it,Idaho,134
+Ignore it,South Carolina,133
+Ignore it,Nevada,131
+Ignore it,New Mexico,125
+Ignore it,New Hampshire,123
+Ignore it,Alaska,121
+Ignore it,Maryland,114
+Ignore it,South Dakota,109
+Ignore it,Vermont,82
+Ignore it,Wyoming,80
+Ignore it,North Dakota,72
+Ignore it,(not set),61
+Ignore it,Rhode Island,52
+Ignore it,Delaware,31
+Ignore it,Hawaii,12
+"No, I believe most news articles are false",Texas,318
+"No, I believe most news articles are false",California,251
+"No, I believe most news articles are false",Illinois,247
+"No, I believe most news articles are false",New York,217
+"No, I believe most news articles are false",Michigan,206
+"No, I believe most news articles are false",Pennsylvania,199
+"No, I believe most news articles are false",Ohio,153
+"No, I believe most news articles are false",Washington,152
+"No, I believe most news articles are false",North Carolina,127
+"No, I believe most news articles are false",Tennessee,121
+"No, I believe most news articles are false",Missouri,119
+"No, I believe most news articles are false",Georgia,112
+"No, I believe most news articles are false",Colorado,111
+"No, I believe most news articles are false",Indiana,111
+"No, I believe most news articles are false",Minnesota,105
+"No, I believe most news articles are false",Florida,104
+"No, I believe most news articles are false",Oregon,89
+"No, I believe most news articles are false",Utah,84
+"No, I believe most news articles are false",Wisconsin,83
+"No, I believe most news articles are false",Massachusetts,79
+"No, I believe most news articles are false",Arizona,76
+"No, I believe most news articles are false",Virginia,70
+"No, I believe most news articles are false",Oklahoma,68
+"No, I believe most news articles are false",New Jersey,63
+"No, I believe most news articles are false",Nebraska,60
+"No, I believe most news articles are false",Iowa,59
+"No, I believe most news articles are false",Kansas,52
+"No, I believe most news articles are false",West Virginia,51
+"No, I believe most news articles are false",Louisiana,47
+"No, I believe most news articles are false",Arkansas,45
+"No, I believe most news articles are false",Kentucky,43
+"No, I believe most news articles are false",Alabama,42
+"No, I believe most news articles are false",District of Columbia,42
+"No, I believe most news articles are false",Idaho,42
+"No, I believe most news articles are false",Connecticut,41
+"No, I believe most news articles are false",Maine,40
+"No, I believe most news articles are false",Mississippi,38
+"No, I believe most news articles are false",South Carolina,38
+"No, I believe most news articles are false",Montana,35
+"No, I believe most news articles are false",Maryland,31
+"No, I believe most news articles are false",Nevada,31
+"No, I believe most news articles are false",Alaska,29
+"No, I believe most news articles are false",New Hampshire,27
+"No, I believe most news articles are false",New Mexico,26
+"No, I believe most news articles are false",South Dakota,22
+"No, I believe most news articles are false",Vermont,20
+"No, I believe most news articles are false",Wyoming,17
+"No, I believe most news articles are false",North Dakota,16
+"No, I believe most news articles are false",(not set),15
+"No, I believe most news articles are false",Rhode Island,7
+"No, I believe most news articles are false",Delaware,4
+"No, I believe most news articles are false",Hawaii,1
+"No, I don't think I could tell if an article was telling the truth",California,187
+"No, I don't think I could tell if an article was telling the truth",Texas,182
+"No, I don't think I could tell if an article was telling the truth",New York,159
+"No, I don't think I could tell if an article was telling the truth",Illinois,147
+"No, I don't think I could tell if an article was telling the truth",Michigan,136
+"No, I don't think I could tell if an article was telling the truth",Pennsylvania,130
+"No, I don't think I could tell if an article was telling the truth",Ohio,107
+"No, I don't think I could tell if an article was telling the truth",Missouri,78
+"No, I don't think I could tell if an article was telling the truth",North Carolina,74
+"No, I don't think I could tell if an article was telling the truth",Colorado,73
+"No, I don't think I could tell if an article was telling the truth",Washington,72
+"No, I don't think I could tell if an article was telling the truth",Indiana,71
+"No, I don't think I could tell if an article was telling the truth",Wisconsin,68
+"No, I don't think I could tell if an article was telling the truth",Tennessee,67
+"No, I don't think I could tell if an article was telling the truth",Georgia,66
+"No, I don't think I could tell if an article was telling the truth",Minnesota,63
+"No, I don't think I could tell if an article was telling the truth",Oregon,60
+"No, I don't think I could tell if an article was telling the truth",Massachusetts,56
+"No, I don't think I could tell if an article was telling the truth",Virginia,56
+"No, I don't think I could tell if an article was telling the truth",Florida,54
+"No, I don't think I could tell if an article was telling the truth",Arizona,53
+"No, I don't think I could tell if an article was telling the truth",Iowa,46
+"No, I don't think I could tell if an article was telling the truth",Oklahoma,46
+"No, I don't think I could tell if an article was telling the truth",Kansas,39
+"No, I don't think I could tell if an article was telling the truth",New Jersey,39
+"No, I don't think I could tell if an article was telling the truth",Utah,38
+"No, I don't think I could tell if an article was telling the truth",Nebraska,36
+"No, I don't think I could tell if an article was telling the truth",Louisiana,34
+"No, I don't think I could tell if an article was telling the truth",Connecticut,31
+"No, I don't think I could tell if an article was telling the truth",District of Columbia,28
+"No, I don't think I could tell if an article was telling the truth",West Virginia,28
+"No, I don't think I could tell if an article was telling the truth",Alaska,27
+"No, I don't think I could tell if an article was telling the truth",Idaho,27
+"No, I don't think I could tell if an article was telling the truth",Arkansas,26
+"No, I don't think I could tell if an article was telling the truth",Kentucky,26
+"No, I don't think I could tell if an article was telling the truth",South Carolina,25
+"No, I don't think I could tell if an article was telling the truth",Maine,23
+"No, I don't think I could tell if an article was telling the truth",Mississippi,23
+"No, I don't think I could tell if an article was telling the truth",Montana,23
+"No, I don't think I could tell if an article was telling the truth",Alabama,22
+"No, I don't think I could tell if an article was telling the truth",New Mexico,22
+"No, I don't think I could tell if an article was telling the truth",Nevada,22
+"No, I don't think I could tell if an article was telling the truth",Maryland,19
+"No, I don't think I could tell if an article was telling the truth",New Hampshire,16
+"No, I don't think I could tell if an article was telling the truth",South Dakota,16
+"No, I don't think I could tell if an article was telling the truth",Rhode Island,10
+"No, I don't think I could tell if an article was telling the truth",North Dakota,9
+"No, I don't think I could tell if an article was telling the truth",Wyoming,9
+"No, I don't think I could tell if an article was telling the truth",Vermont,7
+"No, I don't think I could tell if an article was telling the truth",(not set),6
+"No, I don't think I could tell if an article was telling the truth",Hawaii,3
+"No, I don't think I could tell if an article was telling the truth",Delaware,2
+"No, I have not heard of fake news",Texas,496
+"No, I have not heard of fake news",California,419
+"No, I have not heard of fake news",Illinois,390
+"No, I have not heard of fake news",New York,354
+"No, I have not heard of fake news",Pennsylvania,331
+"No, I have not heard of fake news",Michigan,320
+"No, I have not heard of fake news",Ohio,284
+"No, I have not heard of fake news",Washington,219
+"No, I have not heard of fake news",North Carolina,194
+"No, I have not heard of fake news",Georgia,190
+"No, I have not heard of fake news",Missouri,186
+"No, I have not heard of fake news",Indiana,184
+"No, I have not heard of fake news",Colorado,180
+"No, I have not heard of fake news",Tennessee,180
+"No, I have not heard of fake news",Wisconsin,177
+"No, I have not heard of fake news",Minnesota,164
+"No, I have not heard of fake news",Florida,156
+"No, I have not heard of fake news",Oregon,149
+"No, I have not heard of fake news",Massachusetts,133
+"No, I have not heard of fake news",Utah,123
+"No, I have not heard of fake news",Virginia,120
+"No, I have not heard of fake news",Iowa,114
+"No, I have not heard of fake news",Arizona,113
+"No, I have not heard of fake news",Oklahoma,102
+"No, I have not heard of fake news",New Jersey,101
+"No, I have not heard of fake news",Kansas,91
+"No, I have not heard of fake news",Nebraska,90
+"No, I have not heard of fake news",Arkansas,81
+"No, I have not heard of fake news",Kentucky,76
+"No, I have not heard of fake news",Louisiana,75
+"No, I have not heard of fake news",District of Columbia,74
+"No, I have not heard of fake news",West Virginia,72
+"No, I have not heard of fake news",Idaho,69
+"No, I have not heard of fake news",Maine,64
+"No, I have not heard of fake news",Alabama,62
+"No, I have not heard of fake news",Connecticut,61
+"No, I have not heard of fake news",Montana,59
+"No, I have not heard of fake news",Mississippi,58
+"No, I have not heard of fake news",Nevada,56
+"No, I have not heard of fake news",South Carolina,56
+"No, I have not heard of fake news",Alaska,53
+"No, I have not heard of fake news",New Mexico,44
+"No, I have not heard of fake news",Maryland,43
+"No, I have not heard of fake news",New Hampshire,40
+"No, I have not heard of fake news",South Dakota,38
+"No, I have not heard of fake news",(not set),25
+"No, I have not heard of fake news",Wyoming,25
+"No, I have not heard of fake news",North Dakota,23
+"No, I have not heard of fake news",Vermont,23
+"No, I have not heard of fake news",Rhode Island,21
+"No, I have not heard of fake news",Delaware,8
+"No, I have not heard of fake news",Hawaii,4
+"No, I'm bad at spotting fake news",Texas,727
+"No, I'm bad at spotting fake news",New York,658
+"No, I'm bad at spotting fake news",Illinois,626
+"No, I'm bad at spotting fake news",Pennsylvania,606
+"No, I'm bad at spotting fake news",California,594
+"No, I'm bad at spotting fake news",Ohio,510
+"No, I'm bad at spotting fake news",Michigan,505
+"No, I'm bad at spotting fake news",Washington,351
+"No, I'm bad at spotting fake news",Wisconsin,343
+"No, I'm bad at spotting fake news",Minnesota,315
+"No, I'm bad at spotting fake news",North Carolina,311
+"No, I'm bad at spotting fake news",Tennessee,298
+"No, I'm bad at spotting fake news",Indiana,297
+"No, I'm bad at spotting fake news",Georgia,289
+"No, I'm bad at spotting fake news",Colorado,281
+"No, I'm bad at spotting fake news",Iowa,272
+"No, I'm bad at spotting fake news",Missouri,269
+"No, I'm bad at spotting fake news",Oregon,234
+"No, I'm bad at spotting fake news",Florida,229
+"No, I'm bad at spotting fake news",Massachusetts,219
+"No, I'm bad at spotting fake news",Virginia,209
+"No, I'm bad at spotting fake news",Kentucky,191
+"No, I'm bad at spotting fake news",Nebraska,184
+"No, I'm bad at spotting fake news",Kansas,175
+"No, I'm bad at spotting fake news",New Jersey,175
+"No, I'm bad at spotting fake news",Oklahoma,154
+"No, I'm bad at spotting fake news",Arizona,146
+"No, I'm bad at spotting fake news",Utah,140
+"No, I'm bad at spotting fake news",West Virginia,126
+"No, I'm bad at spotting fake news",Louisiana,109
+"No, I'm bad at spotting fake news",District of Columbia,108
+"No, I'm bad at spotting fake news",Maine,107
+"No, I'm bad at spotting fake news",Alabama,98
+"No, I'm bad at spotting fake news",Arkansas,96
+"No, I'm bad at spotting fake news",Connecticut,94
+"No, I'm bad at spotting fake news",Mississippi,91
+"No, I'm bad at spotting fake news",Montana,90
+"No, I'm bad at spotting fake news",Idaho,88
+"No, I'm bad at spotting fake news",South Carolina,84
+"No, I'm bad at spotting fake news",Alaska,81
+"No, I'm bad at spotting fake news",New Hampshire,80
+"No, I'm bad at spotting fake news",Maryland,75
+"No, I'm bad at spotting fake news",New Mexico,75
+"No, I'm bad at spotting fake news",Nevada,74
+"No, I'm bad at spotting fake news",Vermont,61
+"No, I'm bad at spotting fake news",South Dakota,57
+"No, I'm bad at spotting fake news",North Dakota,45
+"No, I'm bad at spotting fake news",Wyoming,41
+"No, I'm bad at spotting fake news",(not set),38
+"No, I'm bad at spotting fake news",Rhode Island,30
+"No, I'm bad at spotting fake news",Delaware,10
+"No, I'm bad at spotting fake news",Hawaii,8
+Share it if you like it,Texas,164
+Share it if you like it,Illinois,138
+Share it if you like it,Pennsylvania,137
+Share it if you like it,New York,127
+Share it if you like it,California,117
+Share it if you like it,Michigan,107
+Share it if you like it,Ohio,97
+Share it if you like it,Indiana,60
+Share it if you like it,North Carolina,60
+Share it if you like it,Tennessee,59
+Share it if you like it,Georgia,58
+Share it if you like it,Washington,55
+Share it if you like it,Wisconsin,51
+Share it if you like it,Florida,50
+Share it if you like it,Missouri,50
+Share it if you like it,Minnesota,48
+Share it if you like it,Colorado,46
+Share it if you like it,Iowa,46
+Share it if you like it,Massachusetts,43
+Share it if you like it,New Jersey,43
+Share it if you like it,Oregon,43
+Share it if you like it,Virginia,40
+Share it if you like it,Kentucky,39
+Share it if you like it,Kansas,31
+Share it if you like it,Nebraska,31
+Share it if you like it,West Virginia,28
+Share it if you like it,Oklahoma,27
+Share it if you like it,Arkansas,23
+Share it if you like it,Arizona,23
+Share it if you like it,Connecticut,20
+Share it if you like it,District of Columbia,20
+Share it if you like it,Alabama,19
+Share it if you like it,New Hampshire,19
+Share it if you like it,Maryland,18
+Share it if you like it,Maine,18
+Share it if you like it,New Mexico,18
+Share it if you like it,Utah,18
+Share it if you like it,Louisiana,17
+Share it if you like it,Alaska,15
+Share it if you like it,Nevada,14
+Share it if you like it,South Dakota,14
+Share it if you like it,Idaho,13
+Share it if you like it,Mississippi,12
+Share it if you like it,South Carolina,12
+Share it if you like it,Montana,10
+Share it if you like it,North Dakota,9
+Share it if you like it,Wyoming,8
+Share it if you like it,Rhode Island,7
+Share it if you like it,(not set),6
+Share it if you like it,Vermont,6
+Share it if you like it,Delaware,4
+Share it if you like it,Hawaii,2
+"Yes, I believe most news articles are true",Texas,163
+"Yes, I believe most news articles are true",California,150
+"Yes, I believe most news articles are true",Pennsylvania,122
+"Yes, I believe most news articles are true",Illinois,117
+"Yes, I believe most news articles are true",New York,114
+"Yes, I believe most news articles are true",Ohio,107
+"Yes, I believe most news articles are true",Michigan,95
+"Yes, I believe most news articles are true",Wisconsin,73
+"Yes, I believe most news articles are true",Georgia,67
+"Yes, I believe most news articles are true",Indiana,66
+"Yes, I believe most news articles are true",Missouri,59
+"Yes, I believe most news articles are true",Colorado,56
+"Yes, I believe most news articles are true",North Carolina,55
+"Yes, I believe most news articles are true",Tennessee,55
+"Yes, I believe most news articles are true",Minnesota,51
+"Yes, I believe most news articles are true",Oregon,50
+"Yes, I believe most news articles are true",Massachusetts,48
+"Yes, I believe most news articles are true",Washington,48
+"Yes, I believe most news articles are true",Iowa,47
+"Yes, I believe most news articles are true",Virginia,39
+"Yes, I believe most news articles are true",Florida,38
+"Yes, I believe most news articles are true",Oklahoma,32
+"Yes, I believe most news articles are true",Kansas,30
+"Yes, I believe most news articles are true",Arkansas,29
+"Yes, I believe most news articles are true",Utah,29
+"Yes, I believe most news articles are true",Arizona,28
+"Yes, I believe most news articles are true",New Jersey,28
+"Yes, I believe most news articles are true",Kentucky,27
+"Yes, I believe most news articles are true",Idaho,26
+"Yes, I believe most news articles are true",Nebraska,26
+"Yes, I believe most news articles are true",Louisiana,25
+"Yes, I believe most news articles are true",District of Columbia,23
+"Yes, I believe most news articles are true",Alaska,21
+"Yes, I believe most news articles are true",Maine,21
+"Yes, I believe most news articles are true",Alabama,19
+"Yes, I believe most news articles are true",South Carolina,19
+"Yes, I believe most news articles are true",Montana,18
+"Yes, I believe most news articles are true",West Virginia,18
+"Yes, I believe most news articles are true",Mississippi,17
+"Yes, I believe most news articles are true",Nevada,17
+"Yes, I believe most news articles are true",Connecticut,16
+"Yes, I believe most news articles are true",New Mexico,15
+"Yes, I believe most news articles are true",South Dakota,14
+"Yes, I believe most news articles are true",Rhode Island,11
+"Yes, I believe most news articles are true",New Hampshire,10
+"Yes, I believe most news articles are true",Maryland,9
+"Yes, I believe most news articles are true",Wyoming,7
+"Yes, I believe most news articles are true",(not set),6
+"Yes, I believe most news articles are true",Delaware,4
+"Yes, I believe most news articles are true",North Dakota,4
+"Yes, I believe most news articles are true",Hawaii,3
+"Yes, I believe most news articles are true",Vermont,3
+"Yes, I have heard of fake news",Texas,2157
+"Yes, I have heard of fake news",New York,1934
+"Yes, I have heard of fake news",Illinois,1857
+"Yes, I have heard of fake news",California,1846
+"Yes, I have heard of fake news",Pennsylvania,1708
+"Yes, I have heard of fake news",Michigan,1597
+"Yes, I have heard of fake news",Ohio,1470
+"Yes, I have heard of fake news",Washington,983
+"Yes, I have heard of fake news",Wisconsin,979
+"Yes, I have heard of fake news",North Carolina,923
+"Yes, I have heard of fake news",Indiana,863
+"Yes, I have heard of fake news",Minnesota,853
+"Yes, I have heard of fake news",Georgia,847
+"Yes, I have heard of fake news",Florida,844
+"Yes, I have heard of fake news",Colorado,827
+"Yes, I have heard of fake news",Tennessee,814
+"Yes, I have heard of fake news",Missouri,752
+"Yes, I have heard of fake news",Massachusetts,662
+"Yes, I have heard of fake news",Oregon,660
+"Yes, I have heard of fake news",Iowa,649
+"Yes, I have heard of fake news",Virginia,621
+"Yes, I have heard of fake news",New Jersey,505
+"Yes, I have heard of fake news",Kentucky,495
+"Yes, I have heard of fake news",Nebraska,440
+"Yes, I have heard of fake news",Kansas,434
+"Yes, I have heard of fake news",Arizona,422
+"Yes, I have heard of fake news",Utah,417
+"Yes, I have heard of fake news",Oklahoma,389
+"Yes, I have heard of fake news",West Virginia,368
+"Yes, I have heard of fake news",Alabama,354
+"Yes, I have heard of fake news",District of Columbia,331
+"Yes, I have heard of fake news",Louisiana,318
+"Yes, I have heard of fake news",Connecticut,314
+"Yes, I have heard of fake news",Maine,314
+"Yes, I have heard of fake news",Arkansas,300
+"Yes, I have heard of fake news",Mississippi,271
+"Yes, I have heard of fake news",Maryland,246
+"Yes, I have heard of fake news",New Mexico,245
+"Yes, I have heard of fake news",Idaho,240
+"Yes, I have heard of fake news",South Carolina,232
+"Yes, I have heard of fake news",Montana,231
+"Yes, I have heard of fake news",New Hampshire,231
+"Yes, I have heard of fake news",Nevada,220
+"Yes, I have heard of fake news",Alaska,211
+"Yes, I have heard of fake news",South Dakota,182
+"Yes, I have heard of fake news",Vermont,145
+"Yes, I have heard of fake news",Wyoming,130
+"Yes, I have heard of fake news",North Dakota,117
+"Yes, I have heard of fake news",(not set),107
+"Yes, I have heard of fake news",Rhode Island,103
+"Yes, I have heard of fake news",Delaware,51
+"Yes, I have heard of fake news",Hawaii,26
+"Yes, I'm good at spotting fake news",Texas,1369
+"Yes, I'm good at spotting fake news",New York,1212
+"Yes, I'm good at spotting fake news",California,1200
+"Yes, I'm good at spotting fake news",Illinois,1146
+"Yes, I'm good at spotting fake news",Pennsylvania,1035
+"Yes, I'm good at spotting fake news",Michigan,1031
+"Yes, I'm good at spotting fake news",Ohio,908
+"Yes, I'm good at spotting fake news",Washington,615
+"Yes, I'm good at spotting fake news",Wisconsin,600
+"Yes, I'm good at spotting fake news",Florida,575
+"Yes, I'm good at spotting fake news",North Carolina,574
+"Yes, I'm good at spotting fake news",Indiana,537
+"Yes, I'm good at spotting fake news",Georgia,532
+"Yes, I'm good at spotting fake news",Colorado,524
+"Yes, I'm good at spotting fake news",Minnesota,505
+"Yes, I'm good at spotting fake news",Tennessee,497
+"Yes, I'm good at spotting fake news",Missouri,469
+"Yes, I'm good at spotting fake news",Massachusetts,418
+"Yes, I'm good at spotting fake news",Oregon,403
+"Yes, I'm good at spotting fake news",Virginia,378
+"Yes, I'm good at spotting fake news",Iowa,364
+"Yes, I'm good at spotting fake news",New Jersey,319
+"Yes, I'm good at spotting fake news",Kentucky,286
+"Yes, I'm good at spotting fake news",Arizona,264
+"Yes, I'm good at spotting fake news",Utah,259
+"Yes, I'm good at spotting fake news",Nebraska,245
+"Yes, I'm good at spotting fake news",Alabama,244
+"Yes, I'm good at spotting fake news",Kansas,243
+"Yes, I'm good at spotting fake news",West Virginia,229
+"Yes, I'm good at spotting fake news",Oklahoma,221
+"Yes, I'm good at spotting fake news",District of Columbia,219
+"Yes, I'm good at spotting fake news",Louisiana,201
+"Yes, I'm good at spotting fake news",Connecticut,199
+"Yes, I'm good at spotting fake news",Arkansas,193
+"Yes, I'm good at spotting fake news",Maine,190
+"Yes, I'm good at spotting fake news",Mississippi,172
+"Yes, I'm good at spotting fake news",New Mexico,163
+"Yes, I'm good at spotting fake news",Maryland,160
+"Yes, I'm good at spotting fake news",South Carolina,148
+"Yes, I'm good at spotting fake news",Idaho,145
+"Yes, I'm good at spotting fake news",New Hampshire,145
+"Yes, I'm good at spotting fake news",Nevada,142
+"Yes, I'm good at spotting fake news",Montana,136
+"Yes, I'm good at spotting fake news",Alaska,120
+"Yes, I'm good at spotting fake news",South Dakota,119
+"Yes, I'm good at spotting fake news",Wyoming,83
+"Yes, I'm good at spotting fake news",Vermont,81
+"Yes, I'm good at spotting fake news",Rhode Island,71
+"Yes, I'm good at spotting fake news",North Dakota,67
+"Yes, I'm good at spotting fake news",(not set),65
+"Yes, I'm good at spotting fake news",Delaware,39
+"Yes, I'm good at spotting fake news",Hawaii,17
+"Yes, think I could tell if an article was telling the truth",Texas,267
+"Yes, think I could tell if an article was telling the truth",California,185
+"Yes, think I could tell if an article was telling the truth",Illinois,180
+"Yes, think I could tell if an article was telling the truth",Pennsylvania,163
+"Yes, think I could tell if an article was telling the truth",New York,148
+"Yes, think I could tell if an article was telling the truth",Michigan,134
+"Yes, think I could tell if an article was telling the truth",Ohio,129
+"Yes, think I could tell if an article was telling the truth",Washington,110
+"Yes, think I could tell if an article was telling the truth",Tennessee,102
+"Yes, think I could tell if an article was telling the truth",Georgia,99
+"Yes, think I could tell if an article was telling the truth",Indiana,94
+"Yes, think I could tell if an article was telling the truth",Missouri,89
+"Yes, think I could tell if an article was telling the truth",North Carolina,86
+"Yes, think I could tell if an article was telling the truth",Colorado,83
+"Yes, think I could tell if an article was telling the truth",Wisconsin,82
+"Yes, think I could tell if an article was telling the truth",Minnesota,79
+"Yes, think I could tell if an article was telling the truth",Florida,74
+"Yes, think I could tell if an article was telling the truth",Oregon,63
+"Yes, think I could tell if an article was telling the truth",Utah,61
+"Yes, think I could tell if an article was telling the truth",Massachusetts,57
+"Yes, think I could tell if an article was telling the truth",Iowa,54
+"Yes, think I could tell if an article was telling the truth",Nebraska,47
+"Yes, think I could tell if an article was telling the truth",Arkansas,46
+"Yes, think I could tell if an article was telling the truth",Oklahoma,46
+"Yes, think I could tell if an article was telling the truth",Arizona,45
+"Yes, think I could tell if an article was telling the truth",New Jersey,44
+"Yes, think I could tell if an article was telling the truth",Kentucky,41
+"Yes, think I could tell if an article was telling the truth",Virginia,38
+"Yes, think I could tell if an article was telling the truth",Alabama,35
+"Yes, think I could tell if an article was telling the truth",Idaho,35
+"Yes, think I could tell if an article was telling the truth",Kansas,34
+"Yes, think I could tell if an article was telling the truth",West Virginia,32
+"Yes, think I could tell if an article was telling the truth",District of Columbia,31
+"Yes, think I could tell if an article was telling the truth",Louisiana,31
+"Yes, think I could tell if an article was telling the truth",Maine,29
+"Yes, think I could tell if an article was telling the truth",South Carolina,28
+"Yes, think I could tell if an article was telling the truth",Mississippi,26
+"Yes, think I could tell if an article was telling the truth",Montana,25
+"Yes, think I could tell if an article was telling the truth",Nevada,24
+"Yes, think I could tell if an article was telling the truth",Connecticut,22
+"Yes, think I could tell if an article was telling the truth",New Hampshire,20
+"Yes, think I could tell if an article was telling the truth",Maryland,19
+"Yes, think I could tell if an article was telling the truth",South Dakota,19
+"Yes, think I could tell if an article was telling the truth",Alaska,18
+"Yes, think I could tell if an article was telling the truth",New Mexico,18
+"Yes, think I could tell if an article was telling the truth",Vermont,14
+"Yes, think I could tell if an article was telling the truth",Wyoming,14
+"Yes, think I could tell if an article was telling the truth",(not set),13
+"Yes, think I could tell if an article was telling the truth",North Dakota,9
+"Yes, think I could tell if an article was telling the truth",Delaware,6
+"Yes, think I could tell if an article was telling the truth",Rhode Island,5
+"Yes, think I could tell if an article was telling the truth",Hawaii,1
